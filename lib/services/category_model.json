@@ -1,0 +1,84 @@
+{
+     "categories" : [
+        {
+            "name" :"Men Clothing & Fashion",
+            "subcategory": [
+                "Wedding & Events",
+                "Jackets",
+                "Wataches"
+            ]
+        },
+        {
+            "name" :"Computer & Assessories",
+            "subcategory": [
+                "Mobiles",
+                "Laptops",
+                "Personal Computer"
+            ]   
+        },
+        {
+            "name" :"Automobile",
+            "subcategory": [
+                "Heavy Bikes",
+                "Sport Cars",
+                "Luxury Cars"
+            ]   
+        },
+        {
+            "name" :"Kids & Toys",
+            "subcategory": [
+                "Shoes & Bags",
+                "Baby Clothing",
+                "toys"
+            ]   
+        },
+        {
+            "name" :"Sports",
+            "subcategory": [
+                "Cricket",
+                "Football",
+                "Badminton"
+            ]   
+        },
+        {
+            "name" :"Cellphones",
+            "subcategory": [
+                "Android Mobiles",
+                "iphones"
+            
+                
+            ]   
+        },
+        {
+            "name" :"Makeup",
+            "subcategory": [
+                "Creams",
+                "Lips Tick",
+                "Eye Liner"
+            ]   
+        },
+
+        {
+            "name" :"Women Dress",
+            "subcategory": [
+                "Wedding & Events",
+                "Tops & Sets",
+                "Wataches"
+            ]
+
+        },
+        {
+            "name" :"Furniture",
+            "subcategory": [
+                "Sofa Set",
+                "Tables",
+                "Chairs"
+            ]   
+        }
+
+
+
+
+     ]
+
+}
